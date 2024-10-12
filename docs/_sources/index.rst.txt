@@ -51,6 +51,7 @@ Bienvenue
    :hidden:
 
    document/ecole_ding.rst
+   Liste des ecoles d'ingénieur <document/ecole_ding/index.rst>
 
 .. toctree::
    :maxdepth: 2
@@ -59,7 +60,6 @@ Bienvenue
 
    document/master.rst
    Liste des masters en France <document/masters/index.rst>
-   Liste des parcours <document/masters/parcours/index.rst>
 
 .. toctree::
    :maxdepth: 2
