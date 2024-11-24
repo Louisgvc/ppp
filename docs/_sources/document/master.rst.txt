@@ -1,0 +1,27 @@
+Objectif du diplôme
+====================
+
+Les mentions de masters 
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Le master répond à un double objectif : préparer aux études doctorales et offrir une qualification menant à une insertion professionnelle de haut niveau.
+Il est accessible, dans la limite des places disponibles, aux étudiants ayant validé 180 crédits ECTS. 
+Sa durée est de 2 ans (cursus indivisible de 4 semestres) et valide 120 crédits ECTS.
+La formation dispensée comprend des enseignements théoriques, méthodologiques et appliqués et, lorsqu'elle l'exige, un ou plusieurs stages.
+
+Les masters sont déclinées en mentions et en parcours. Chaque mention comporte un ou plusieurs parcours.
+
+.. note::
+   Un parcours est un ensemble cohérent d'UE (unité d'enseignement) organisé en vue d'une progression pédagogique adaptée. Il peut débuter dès la première année ou en deuxième année de master.
+
+
+Les domaines étudiers
+^^^^^^^^^^^^^^^^^^^^^^^
+
+  - Réseaux, Cybersécurité, Télécommunications, Cloud, Virtualisation,
+  - Téléphonie, Partage de données, Développement embarqué,
+  - Sécurité hardware et software, Plateformes IoT, Bases et flux de données,
+  - Réseaux de capteurs, Protocoles de communication, Supervision, Stockage de données, QoS, etc.
+
+
+

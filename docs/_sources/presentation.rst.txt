@@ -1,0 +1,93 @@
+Bienvenue
+###########
+
+Qu'est-ce que le BUT Réseaux et Télécommunications 
+----------------------------------------------------
+
+Le BUT (Bachelor Universitaire de Technologie) en Réseaux et Télécommunications est une formation française de niveau bac +3, généralement dispensée dans les Instituts Universitaires de Technologie (IUT). Ce cursus vise à former des professionnels capables de concevoir, déployer et maintenir des systèmes de communication et des réseaux informatiques.
+
+Le bachelor universitaire technologique est un diplôme reconnu par l’État. C’est une formation en 3 ans. Le BUT réseaux et télécommunications te forme pour devenir un véritable expert des réseaux et des systèmes d’exploitation. Tu auras des cours théoriques mais également pratiques. Cette formation propose également des projets tutorés et des travaux dirigés.
+
+Voici un exemple de matières proposées en BUT réseaux et télécommunications :
+
+    * Mathématiques
+    * Communication
+    * Anglais
+    * Informatique
+    * Électronique
+    * Physique
+    * Et biens d’autres !
+
+Une période de stage est obligatoire pendant ta formation. Tu pourras choisir de suivre cette formation en initial, mais également en alternance.
+
+La première année de BUT réseaux et télécommunications est assez généraliste, un tronc commun sera proposé en deuxième et troisième année, tu auras le choix entre différents parcours :
+
+    * Parcours cybersécurité
+    * Parcours réseaux opérateurs et multimédia
+    * Parcours internet des objets et mobilité
+    * Parcours pilotage de projets réseaux
+    * Parcours développement système et cloud
+
+.. note::
+   À savoir : le BUT ne te dit rien du tout ? C’est normal, il s’agit du nom que prendra le nouveau DUT à la rentrée 2021. Cette formation en trois ans combine la formation du DUT et celle de la licence professionnelle. 
+
+
+Quelles poursuites d’études à la suite du BUT réseaux et télécommunications ?
+-------------------------------------------------------------------------------
+
+Une fois ton diplôme obtenu, différentes voies d’études s’offrent à toi !
+
+    * Les Masters spécialisés en réseaux, cybersécurité, télécommunications, et plus encore.
+    * Les écoles d'ingénieurs accessibles après un BUT.
+    * Les formations professionnelles.
+
+ 
+Le master à l’université
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+À l’issue de ton BUT réseaux et télécommunications, tu peux faire le choix d’intégrer un master à l’université. 
+
+Il existe deux types de masters : le master recherche et le master professionnel. Il ne tient qu’à toi de choisir celui qui te convient le mieux !
+
+Le master recherche contient des cours théoriques et d’initiation à la recherche, et s’achève avec la rédaction d’un mémoire. Les étudiants en master recherche poursuivent souvent avec un doctorat.
+
+Le master professionnel, quant à lui, se veut davantage lié au monde de l’entreprise. Il permet de se spécialiser dans un domaine bien précis pour ensuite s’orienter vers le marché du travail.
+
+Tu pourras suivre un Master en informatique.
+
+ 
+Les écoles d’ingénieurs
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+De nombreux étudiants en réseaux et télécommunications choisissent d’intégrer un BUT réseaux et télécommunications. Différentes écoles proposent une formation d’excellence.
+
+Voici une liste d’écoles d’ingénieurs qui pourraient t’intéresser :
+
+    * École des mines
+    * École polytechnique
+    * ENSCM
+    * INSA
+
+Ce site a pour objectif de vous accompagner dans votre réflexion et de vous présenter les différentes options qui s'offrent à vous, que ce soit en France ou à l'international.
+
+
+Bonne navigation !
+
+Choisissez votre formations: 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../Images/1200x1385+picto+ingénieur-2611604174.png
+   :target: ecole_ding.html
+   :height: 8em
+   :align: left
+
+.. image:: ../../Images/Diplôme-National-de-Master-260x300-1990020184.png
+   :target: master.html
+   :height: 8em
+   :align: center
+
+.. image:: ../../Images/fst-LP-diplome-national-de-licence-professionnelle-1744006586.png
+   :target: lp.html
+   :height: 8em
+   :align: right
+

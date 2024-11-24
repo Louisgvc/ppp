@@ -1,0 +1,12 @@
+.navbar .logo::after {
+    content: "Page d'accueil";
+    display: block;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.navbar .logo::after:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+

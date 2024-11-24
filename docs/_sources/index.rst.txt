@@ -1,0 +1,93 @@
+:sd_hide_title:
+
+Bienvenue
+##########
+
+.. raw:: html
+
+   <div class="landing-title" style="padding: 0.1rem 0.5rem 0.6rem 0; background-image: linear-gradient(315deg, #292d35 0%, #292d35  74%); clip-path: polygon(0px 0px, 100% 0%, 100% 100%, 0% calc(100% - 1.5rem)); -webkit-clip-path: polygon(0px 0px, 100% 0%, 100% 100%, 0% calc(100% - 1.5rem));">
+
+.. grid::
+   :reverse:
+   :gutter: 2 3 3 3
+   :margin: 4 4 1 2
+
+   .. grid-item::
+      :columns: 12 4 4 4
+
+      .. image:: ../../Images/logo-removebg-preview.png
+         :width: 900px
+         :class: sd-m-auto sd-animate-grow50-rot20
+
+   .. grid-item::
+      :columns: 12 8 8 8
+      :child-align: justify
+      :class: sd-text-white sd-fs-3
+
+      Poursuite d'etude après un BUT réseaux et télécommunications.
+
+      .. button-ref:: presentation
+         :ref-type: doc
+         :outline:
+         :color: white
+         :class: sd-px-4 sd-fs-5
+
+         Bienvenue
+
+
+.. raw:: html
+
+   </div>  <!-- Fermer le div ici pour que le contenu suivant soit en dehors -->
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   presentation.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: LICENCE PROFESSIONNELLE
+   :hidden:
+
+   document/lp.rst
+   Cartes des licence professionnelle  <document/lp/index.rst>
+
+.. toctree::
+   :maxdepth: 2
+   :caption: LES ÉCOLES D'INGÉNIEURS
+   :hidden:
+
+   document/ecole_ding.rst
+   Cartes des ecoles d'ingénieur <document/ecole_ding/index.rst>
+
+.. toctree::
+   :maxdepth: 2
+   :caption: LES MASTERS
+   :hidden:
+
+   document/master.rst
+   Cartes des masters en France <document/masters/index.rst>
+
+
+Bienvenue sur notre plateforme dédiée aux opportunités d’études supérieures après l’obtention d’un BUT Réseaux et Télécommunications.
+Ce site a pour objectif de guider les étudiants dans leur choix de poursuite d’études, en offrant une vue d’ensemble des différentes possibilités,
+que ce soit en écoles d'ingénieurs, en masters, ou d’autres formations spécialisées.
+
+Pourquoi poursuivre après un BUT Réseaux et Télécommunications ?
+===================================================================
+Le BUT Réseaux et Télécommunications offre une solide formation technique et théorique. Cependant, pour ceux qui souhaitent approfondir leurs compétences ou se spécialiser dans un domaine précis, la poursuite d’études peut ouvrir la voie à de nombreuses opportunités :
+
+   - Accès à des postes à responsabilités : Les formations de niveau bac+5 (master ou ingénieur) sont souvent indispensables pour les postes de cadre ou d’ingénieur dans des secteurs en pleine expansion.
+   - Spécialisation dans des domaines de pointe : Sécurité des réseaux, cloud computing, Internet des objets (IoT), systèmes embarqués, et bien d’autres domaines vous attendent !
+   - Mobilité internationale : Certaines formations permettent d’acquérir une dimension internationale à votre parcours, avec des stages et des semestres à l'étranger
+
+
+Choisir la bonne voie
+========================
+Sur ce site, vous trouverez des informations détaillées sur les différentes formations accessibles après un BUT :
+
+   - Écoles d'ingénieurs : Les écoles spécialisées dans les réseaux et les télécommunications, les modalités d’admission et les débouchés.
+   - Masters universitaires : Les programmes de master en France et à l’étranger, ainsi que les perspectives de carrière offertes.
+   - Licence professionnelle : Certifications, formations spécialisées, ou insertion professionnelle directe.
+
