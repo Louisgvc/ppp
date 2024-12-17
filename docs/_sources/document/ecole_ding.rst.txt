@@ -11,19 +11,24 @@ Objectifs principaux
 
 Le programme d’ingénieur vise à atteindre plusieurs objectifs fondamentaux :
 
-    1. Maîtrise des technologies avancées
+    1. Maîtrise des technologies avancées  
+
     Acquérir des compétences techniques approfondies dans des domaines comme la sécurité des réseaux, les systèmes embarqués, l’intelligence artificielle, et le cloud computing, tout en restant au fait des dernières innovations.
 
-    2. Gestion de projets complexes
+    2. Gestion de projets complexes  
+
     Développer une capacité à gérer des projets techniques d'envergure, en prenant en compte les contraintes de délais, de coûts et de qualité, et en coordonnant des équipes pluridisciplinaires.
 
-    3. Développement de solutions innovantes
+    3. Développement de solutions innovantes  
+
     Être capable de concevoir des solutions novatrices face à des problématiques complexes en utilisant une approche méthodologique rigoureuse et créative.
 
-    4. Expertise en management et communication
+    4. Expertise en management et communication  
+
     En plus des compétences techniques, le cursus met l’accent sur le développement de compétences en gestion d'équipe, en communication et en gestion d’entreprise, nécessaires pour évoluer vers des postes à responsabilités.
 
-    5. Adaptabilité et formation continue
+    5. Adaptabilité et formation continue  
+
     Former des ingénieurs capables de s’adapter aux changements rapides du secteur des technologies et aux exigences du marché du travail en constante évolution. L’apprentissage continu et l’adaptabilité sont des qualités essentielles pour évoluer dans ce domaine.
 
 Débouchés

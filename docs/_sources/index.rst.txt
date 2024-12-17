@@ -24,7 +24,7 @@ Bienvenue
       :child-align: justify
       :class: sd-text-white sd-fs-3
 
-      Poursuite d'etude après un BUT réseaux et télécommunications.
+      Poursuite d'études après un BUT réseaux et télécommunications.
 
       
 .. raw:: html
@@ -41,7 +41,7 @@ Bienvenue
 
 .. toctree::
    :maxdepth: 2
-   :caption: LES ÉCOLES D'INGÉNIEURS
+   :caption: LES ÉCOLES D'INGÉNIEUR
    :hidden:
 
    document/ecole_ding.rst
