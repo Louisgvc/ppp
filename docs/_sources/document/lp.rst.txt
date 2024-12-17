@@ -1,0 +1,39 @@
+Objectif du diplôme
+=====================
+
+La Licence Professionnelle en Réseaux et Télécommunications s’adresse aux étudiants souhaitant approfondir leurs connaissances et compétences dans les domaines des infrastructures réseaux, des télécommunications et des systèmes d’information. Elle a pour objectif de former des professionnels opérationnels, capables de répondre aux besoins des entreprises et des organisations en matière de conception, de déploiement et de gestion de solutions réseaux.
+
+Les objectifs principaux :
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+    1. Acquérir une expertise technique
+        Les étudiants développent une maîtrise des technologies réseau (routage, commutation, sécurité) et des télécommunications (VoIP, 4G/5G, IoT). Cela inclut une connaissance approfondie des outils et protocoles utilisés dans l’administration et la supervision des réseaux.
+
+    2. Former des professionnels polyvalents
+        La licence met l'accent sur une approche professionnelle : diagnostic et résolution de pannes, optimisation des performances, intégration de solutions innovantes, et gestion de projets dans des environnements variés.
+
+    3. Développer des compétences en sécurité informatique
+        Les enjeux de cybersécurité étant cruciaux, cette formation sensibilise les étudiants à la sécurisation des réseaux, à la protection des données et à la lutte contre les cyberattaques.
+
+    4. Renforcer les compétences managériales et de communication
+        Outre les compétences techniques, les étudiants acquièrent des aptitudes en gestion de projet, en communication avec les parties prenantes, et en coordination d’équipes.
+
+    5. Répondre aux besoins du marché
+        La licence vise à répondre aux exigences des entreprises grâce à des partenariats étroits avec le monde professionnel et des enseignements adaptés aux évolutions des technologies.
+
+Débouchés professionnels
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+À l'issue de la formation, les diplômés sont prêts à occuper des postes tels que :
+
+   - Administrateur systèmes et réseaux
+   - Technicien en télécommunications
+   - Chargé de projets en infrastructure réseau
+   - Analyste cybersécurité
+   - Intégrateur de solutions IoT ou cloud computing
+
+Une formation professionnalisante
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La Licence Professionnelle se distingue par une forte composante pratique, incluant des projets collaboratifs et un stage en entreprise. Cette approche permet aux étudiants d’être immédiatement opérationnels sur le marché du travail.
+
