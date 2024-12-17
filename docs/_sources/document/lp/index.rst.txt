@@ -1,4 +1,4 @@
-Carte des licences professionel
+Carte des licences professionnelles
 ------------------------------------
 
 .. raw:: html
